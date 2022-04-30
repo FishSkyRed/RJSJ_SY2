@@ -10,7 +10,7 @@
 
 
 
-![image-20220430202941655](C:\Users\86130\Desktop\img\image-20220430202941655.png)
+![image-20220430202941655](https://github.com/FishSkyRed/RJSJ_SY2/blob/main/img/image-20220430202941655.png?raw=true)
 
 
 
@@ -46,7 +46,7 @@ Next按钮是工程创建时默认的按钮，查看Next按钮的布局设计视
 
 
 
-![image-20220430203550428](C:\Users\86130\Desktop\img\image-20220430203550428.png)
+![image-20220430203550428](https://github.com/FishSkyRed/RJSJ_SY2/blob/main/img/image-20220430203550428.png?raw=true)
 
 
 
@@ -66,7 +66,7 @@ Next按钮是工程创建时默认的按钮，查看Next按钮的布局设计视
 
 
 
-![image-20220430204859701](C:\Users\86130\Desktop\img\image-20220430204859701.png)
+![image-20220430204859701](https://github.com/FishSkyRed/RJSJ_SY2/blob/main/img/image-20220430204859701.png?raw=true)
 
 
 
@@ -80,7 +80,7 @@ ps: 以上操作可以手动在string.xml文件中定义并引用
 
 在属性面板中更改Next按钮的id，从button_first改为random_button。
 
-![image-20220430205837779](C:\Users\86130\Desktop\img\image-20220430205837779.png)
+![image-20220430205837779](https://github.com/FishSkyRed/RJSJ_SY2/blob/main/img/image-20220430205837779.png?raw=true)
 
 
 
@@ -96,7 +96,7 @@ ps: 以上操作可以手动在string.xml文件中定义并引用
 
 
 
-![image-20220430210216029](C:\Users\86130\Desktop\img\image-20220430210216029.png)
+![image-20220430210216029](https://github.com/FishSkyRed/RJSJ_SY2/blob/main/img/image-20220430210216029.png?raw=true)
 
 
 
@@ -210,7 +210,7 @@ values>colors.xml    添加新颜色screenBackground 值为 #2196F3，这是蓝�
 
 
 
-![image-20220430213836409](C:\Users\86130\Desktop\img\image-20220430213836409.png)
+![image-20220430213836409](https://github.com/FishSkyRed/RJSJ_SY2/blob/main/img/image-20220430213836409.png?raw=true)
 
 
 
@@ -286,7 +286,7 @@ view.findViewById<Button>(R.id.toast_button).setOnClickListener {
 
 
 
-![image-20220430215442881](C:\Users\86130\Desktop\img\image-20220430215442881.png)
+![image-20220430215442881](https://github.com/FishSkyRed/RJSJ_SY2/blob/main/img/image-20220430215442881.png?raw=true)
 
 
 
@@ -406,7 +406,7 @@ if (count > 0) {
 
 ## 第一界面图：
 
-![image-20220430224816565](C:\Users\86130\Desktop\img\image-20220430224816565.png)
+![image-20220430224816565](https://github.com/FishSkyRed/RJSJ_SY2/blob/main/img/image-20220430224816565.png?raw=true)
 
 
 
@@ -414,4 +414,4 @@ if (count > 0) {
 
 
 
-![image-20220430224828844](C:\Users\86130\Desktop\img\image-20220430224828844.png)
+![image-20220430224828844](https://github.com/FishSkyRed/RJSJ_SY2/blob/main/img/image-20220430224828844.png?raw=true)
